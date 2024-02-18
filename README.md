@@ -15,6 +15,8 @@ The script should create subdirectories for different file types (e.g., "Picture
 It should handle files with no extensions or unknown extensions by moving them to a "Misc" folder.
 The script should display appropriate messages for each action taken (e.g., "Moving file.jpg to Pictures folder," "Creating Music folder," etc.)
 The script should be able to handle spaces and special characters in filenames and directory names.
+
+
 Implementation
 Before writing the actual script, we will need the files with different extensions available in the directory.
 
