@@ -27,6 +27,7 @@ To organize the file:
 file_organizer.sh: wget https://raw.githubusercontent.com/DprinceG/FileOrganizer/main/file_organizer.sh
 
 
+<img width="429" alt="2024-02-17_10h26_17" src="https://github.com/DprinceG/FileOrganizer/assets/160339594/f9628c20-8a81-4042-a657-5bf5c0f8b717">
 
 
 
