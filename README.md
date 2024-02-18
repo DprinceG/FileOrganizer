@@ -21,11 +21,10 @@ Before writing the actual script, we will need the files with different extensio
 First we will create those files by using the script from the below link. 
 Here we will pull the file named ‘create_files.sh’ from github that consists of the script:
 
-To create the file create_file.sh: wget https://github.com/DprinceG/FileOrganizer/blob/d06124b88119ff29662784bde22abef6eae568f6/create_files.sh
-
+To create the file create_file.sh: wget https://raw.githubusercontent.com/DprinceG/FileOrganizer/4b6f2074825aad7d6b6b2425597d705898228057/create_files.sh
 To organize the file: 
 file_organizer.sh 
-https://github.com/DprinceG/FileOrganizer/blob/e8f71b47e30774b318816a360656eadeffba2f0b/file_organizer.sh
+
 
 
 
