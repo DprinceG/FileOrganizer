@@ -55,7 +55,7 @@ To organize the file:
 file_organizer.sh: wget https://raw.githubusercontent.com/DprinceG/FileOrganizer/main/file_organizer.sh
 
 
-Test
+Test1
 
 
 
