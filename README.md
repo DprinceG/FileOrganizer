@@ -24,6 +24,7 @@ First we will create those files by using the script from the below link.
 Here we will pull the file named ‘create_files.sh’ from github that consists of the script:
 
 To create the file 
+
 create_file.sh: wget https://raw.githubusercontent.com/DprinceG/FileOrganizer/4b6f2074825aad7d6b6b2425597d705898228057/create_files.sh
 
 To organize the file: 
