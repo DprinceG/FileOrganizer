@@ -27,7 +27,8 @@ To create the file
 
 create_file.sh: wget https://raw.githubusercontent.com/DprinceG/FileOrganizer/main/create_files.sh
 
-<img width="808" alt="image" src="https://github.com/DprinceG/FileOrganizer/assets/160339594/f1e13004-748a-4029-82d2-b57ccd22aeb5">
+<img width="657" alt="image" src="https://github.com/DprinceG/FileOrganizer/assets/160339594/c05bab08-557c-40f6-bb7d-6322aba71e0e">
+
 
 if you wish to view the file content then use the command cat create_file.sh
 
