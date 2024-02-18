@@ -25,6 +25,7 @@ To create the file create_file.sh: wget https://github.com/DprinceG/FileOrganize
 
 To organize the file: 
 file_organizer.sh 
+https://github.com/DprinceG/FileOrganizer/blob/e8f71b47e30774b318816a360656eadeffba2f0b/file_organizer.sh
 
 
 
