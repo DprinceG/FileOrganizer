@@ -48,6 +48,6 @@ create_sample_music_files
 create_sample_document_files
 create_sample_video_files
 
-#test
+#test2
 
 echo "Sample files created successfully!"
