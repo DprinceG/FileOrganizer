@@ -25,7 +25,7 @@ Here we will pull the file named ‘create_files.sh’ from github that consists
 
 To create the file 
 
-create_file.sh: wget https://raw.githubusercontent.com/DprinceG/FileOrganizer/4b6f2074825aad7d6b6b2425597d705898228057/create_files.sh
+create_file.sh: wget https://raw.githubusercontent.com/DprinceG/FileOrganizer/main/create_files.sh
 
 <img width="808" alt="image" src="https://github.com/DprinceG/FileOrganizer/assets/160339594/f1e13004-748a-4029-82d2-b57ccd22aeb5">
 
