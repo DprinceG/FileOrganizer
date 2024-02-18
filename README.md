@@ -35,12 +35,15 @@ To run the bash script first we need to set permission so that we can excute the
 command: chmod +x create_files.sh
 To check you have the right permission 
 command: ls -lthr
+
 <img width="378" alt="image" src="https://github.com/DprinceG/FileOrganizer/assets/160339594/e38b1317-955a-4bcf-bea1-625fb60b2ec6">
 
 Now run lets run the bash script:
+
 <img width="322" alt="image" src="https://github.com/DprinceG/FileOrganizer/assets/160339594/672774ce-5a38-4e43-88f2-dfde8d40db0a">
 
 Let check if the file get created.
+
 <img width="593" alt="image" src="https://github.com/DprinceG/FileOrganizer/assets/160339594/33b0bb13-2242-4765-aa86-cd2c69e27a4d">
 
 
