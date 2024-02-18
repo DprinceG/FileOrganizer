@@ -24,7 +24,7 @@ Here we will pull the file named ‘create_files.sh’ from github that consists
 To create the file create_file.sh: wget https://raw.githubusercontent.com/DprinceG/FileOrganizer/4b6f2074825aad7d6b6b2425597d705898228057/create_files.sh
 
 To organize the file: 
-file_organizer.sh: https://raw.githubusercontent.com/DprinceG/FileOrganizer/main/file_organizer.sh
+file_organizer.sh: wget https://raw.githubusercontent.com/DprinceG/FileOrganizer/main/file_organizer.sh
 
 
 
