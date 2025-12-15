@@ -55,9 +55,10 @@ Lets check if the file get created.
 
 <img width="593" alt="image" src="https://github.com/DprinceG/FileOrganizer/assets/160339594/33b0bb13-2242-4765-aa86-cd2c69e27a4d">
 
+To organize the file: file_organizer.sh: wget https://raw.githubusercontent.com/DprinceG/FileOrganizer/main/file_organizer.sh
+
 
 This project reflects best practices in:
-
 Linux system administration
 DevOps automation
 Secure and repeatable infrastructure operations
