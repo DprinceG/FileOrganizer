@@ -10,7 +10,8 @@ Enforcing consistent file classification standards
 Reducing human error in system operations
 Supporting scalable, script-driven infrastructure management
 Such automation aligns with U.S. national interests in critical infrastructure reliability, secure system administration, and workforce productivity, particularly in environments supporting finance, technology, and cloud services.
-Key Features
+
+# Key Features
 Dynamic Directory Processing
 Accepts a target directory as a command-line argument, defaulting to the current directory when none is provided.
 Automated File Classification
