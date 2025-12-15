@@ -32,18 +32,32 @@ Such automation aligns with U.S. national interests in critical infrastructure r
 # Implementation and Demonstration
 To simulate a realistic environment, the project includes a companion script (create_files.sh) that programmatically generates files with various extensions. This allows users to validate functionality in a controlled and repeatable manner.
 Setup Steps:
-Download the file creation script:
-wget https://raw.githubusercontent.com/DprinceG/FileOrganizer/main/create_files.sh
-Assign execution permissions:
-chmod +x create_files.sh
-Execute the script to generate test files:
-./create_files.sh
-Download and run the main organizer script:
-wget https://raw.githubusercontent.com/DprinceG/FileOrganizer/main/file_organizer.sh
-chmod +x file_organizer.sh
-./file_organizer.sh
-Broader Impact
+
+create_file.sh: wget https://raw.githubusercontent.com/DprinceG/FileOrganizer/main/create_files.sh
+
+<img width="657" alt="image" src="https://github.com/DprinceG/FileOrganizer/assets/160339594/c05bab08-557c-40f6-bb7d-6322aba71e0e">
+
+
+if you wish to view the file content then use the command cat create_file.sh
+
+To run the bash script first we need to set permission so that we can excute the it.
+command: chmod +x create_files.sh
+To check you have the right permission 
+command: ls -lthr
+
+<img width="378" alt="image" src="https://github.com/DprinceG/FileOrganizer/assets/160339594/e38b1317-955a-4bcf-bea1-625fb60b2ec6">
+
+Now run lets run the bash script:
+
+<img width="322" alt="image" src="https://github.com/DprinceG/FileOrganizer/assets/160339594/672774ce-5a38-4e43-88f2-dfde8d40db0a">
+
+Lets check if the file get created.
+
+<img width="593" alt="image" src="https://github.com/DprinceG/FileOrganizer/assets/160339594/33b0bb13-2242-4765-aa86-cd2c69e27a4d">
+
+
 This project reflects best practices in:
+
 Linux system administration
 DevOps automation
 Secure and repeatable infrastructure operations
