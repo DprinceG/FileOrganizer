@@ -4,7 +4,7 @@
 File Organizer is a lightweight, automation-focused Bash utility designed to improve operational efficiency in Linux-based environments by programmatically organizing files based on their extensions. The project demonstrates practical system automation principles that are directly applicable to enterprise IT operations, cloud workloads, and cybersecurity hygiene—areas of recognized national importance.
 By reducing manual file management and enforcing structured data organization, this tool supports system reliability, administrative efficiency, and standardized operational practices across servers, development environments, and automation pipelines.
 
-# Technical Purpose and National Interest Relevance
+# Technical Purpose
 In large-scale IT, cloud, and cybersecurity environments, unmanaged file sprawl increases the risk of misconfiguration, data exposure, and operational inefficiencies. This project addresses these challenges by:
 - Automating repetitive administrative tasks
 - Enforcing consistent file classification standards
